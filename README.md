@@ -16,7 +16,11 @@ Pull requests are welcome.
 
 ## Projects
 
-- [**Lend721**: Lend and Borrow NFTs](https://lend721.app/)
-- [**Charged Particles**: DeFi NFTs that earn you interest](https://charged-particles.eth.link/)
-- [**NFTfi**: A simple marketplace for NFT collateralized loans](http://nftfi.com/)
-- [**NIFTEX**: Sell fractions of your NFT on an exchange](https://www.niftex.com/)
+- [**Lend721**](https://lend721.app/): Lend and Borrow NFTs
+- [**Charged Particles**](https://charged-particles.eth.link/): DeFi NFTs that earn you interest
+- [**NFTfi**](http://nftfi.com/): A simple marketplace for NFT collateralized loans
+- [**NIFTEX**](https://www.niftex.com/): Sell fractions of your NFT on an exchange
+
+## Challenges 
+
+- [Gods Unchained DeFi challenge](https://www.reddit.com/r/GodsUnchained/comments/igsfib/the_gods_unchained_defi_challenge_eth_prizes_for/)
