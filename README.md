@@ -2,7 +2,7 @@
 
 <br/>
 <div align="center">
-  <img width="250px" src="./DeFi.png">
+  <img width="250px" src="./logo.png">
 </div>
 <br/>
 <div align="center">
