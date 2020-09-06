@@ -6,19 +6,23 @@
 </div>
 <br/>
 <div align="center">
-An awesome list about everything related to NFT + DeFi.
+An awesome list about everything related to NFT + DeFi combo.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 <br/>
 
-Pull requests are welcome.
+Pull requests are very welcome.
 
 ## Projects
 
-- [**Lend721**](https://lend721.app/): Lend and Borrow NFTs
+### Marketplaces
+- [**Collect.Yield**](https://collectyield.com): Lending and borrowing NFTs, while earning interest from top DeFi lending protocols
 - [**Charged Particles**](https://charged-particles.eth.link/): DeFi NFTs that earn you interest
-- [**NFTfi**](http://nftfi.com/): A simple marketplace for NFT collateralized loans
+- [**Lend721**](https://lend721.app/): NFT borrow and lending marketplace
+- [**NFTfi**](http://nftfi.com/): NFT collateralized loans marketplace
+
+### Exchanges
 - [**NIFTEX**](https://www.niftex.com/): Sell fractions of your NFT on an exchange
 
 ## Challenges 
