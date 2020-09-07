@@ -17,6 +17,7 @@ Pull requests are very welcome.
 ## Projects
 
 ### Marketplaces
+- [**Aavegotchi**](https://twitter.com/aavegotchi): DeFi-staked Crypto Collectibles
 - [**Collect.Yield**](https://collectyield.com): Lending and borrowing NFTs, while earning interest from top DeFi lending protocols
 - [**Charged Particles**](https://charged-particles.eth.link/): DeFi NFTs that earn you interest
 - [**Lend721**](https://lend721.app/): NFT borrow and lending marketplace
