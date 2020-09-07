@@ -9,10 +9,10 @@
 An awesome list about everything related to NFT + DeFi combo.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-</div>
-<br/>
 
 Pull requests are very welcome.
+</div>
+<br/>
 
 ## Projects
 
