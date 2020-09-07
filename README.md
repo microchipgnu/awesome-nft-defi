@@ -1,5 +1,3 @@
-# awesome-nft-defi
-
 <br/>
 <div align="center">
   <img width="250px" src="./logo.png">
