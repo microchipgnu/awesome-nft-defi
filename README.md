@@ -4,9 +4,8 @@
 </div>
 <br/>
 <div align="center">
-An awesome list about everything related to NFT + DeFi combo.
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Awesome list about everything related to the NFT + DeFi combo 
 
 Pull requests are very welcome.
 </div>
