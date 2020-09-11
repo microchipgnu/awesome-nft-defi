@@ -27,6 +27,9 @@ Pull requests are very welcome.
 - [**NIFTEX**](https://www.niftex.com/): Sell fractions of your NFT on an exchange
 - [**Rarible**](https://rarible.com/): NFT exchange (in this list because of $RARI governance token)
 
+### Other
+- [**$MEME**](https://dontbuymeme.com/): Meme is an experimental protocol mashing up some of the most exciting innovations in DeFi and crypto collectibles.
+
 ## Challenges 
 
 - [Gods Unchained DeFi challenge](https://www.reddit.com/r/GodsUnchained/comments/igsfib/the_gods_unchained_defi_challenge_eth_prizes_for/)
