@@ -15,20 +15,23 @@ Pull requests are very welcome.
 
 ### Games
 - [**Aavegotchi**](https://twitter.com/aavegotchi): DeFi-staked Crypto Collectibles
-- [**Axie Infinity**](https://axieinfinity.com/): A game about collecting and raising fantasy creatures (in this list because of the upcoming governance token)
+- [**Axie Infinity**](https://axieinfinity.com/): Collecting and raising fantasy creatures (in this list because of the upcoming governance token)
 
 ### Marketplaces
 - [**Collect.Yield**](https://collectyield.com): Lending and borrowing NFTs, while earning interest from top DeFi lending protocols
 - [**Charged Particles**](https://charged-particles.eth.link/): DeFi NFTs that earn you interest
 - [**Lend721**](https://lend721.app/): NFT borrow and lending marketplace
 - [**NFTfi**](http://nftfi.com/): NFT collateralized loans marketplace
+- [**RealT**](https://realt.co/): Fractional and frictionless real estate investing
+- [**RocketNFT**](https://twitter.com/rocketnft): Loans against digital property
+
 
 ### Exchanges
 - [**NIFTEX**](https://www.niftex.com/): Sell fractions of your NFT on an exchange
 - [**Rarible**](https://rarible.com/): NFT exchange (in this list because of $RARI governance token)
 
 ### Other
-- [**$MEME**](https://dontbuymeme.com/): Meme is an experimental protocol mashing up some of the most exciting innovations in DeFi and crypto collectibles.
+- [**$MEME**](https://dontbuymeme.com/): Meme is an experimental protocol mashing up some of the most exciting innovations in DeFi and crypto collectibles
 
 ## Challenges 
 
