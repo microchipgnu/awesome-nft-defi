@@ -30,6 +30,8 @@ Pull requests are very welcome.
 - [**NIFTEX**](https://www.niftex.com/): Sell fractions of your NFT on an exchange
 - [**Rarible**](https://rarible.com/): NFT exchange (in this list because of $RARI governance token)
 
+### Explorers
+- [**NFTNDX.IO**](https://nftndx.io/): Authenticated Non-Fungible Tokens (NFT) Index
 ### Other
 - [**$MEME**](https://dontbuymeme.com/): Meme is an experimental protocol mashing up some of the most exciting innovations in DeFi and crypto collectibles
 
