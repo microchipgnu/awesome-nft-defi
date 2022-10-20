@@ -25,9 +25,13 @@ Pull requests are very welcome.
 - [**RealT**](https://realt.co/): Fractional and frictionless real estate investing
 - [**RocketNFT**](https://twitter.com/rocketnft): Loans against digital property
 
+
 ### Exchanges
 - [**NIFTEX**](https://www.niftex.com/): Sell fractions of your NFT on an exchange
 - [**Rarible**](https://rarible.com/): NFT exchange (in this list because of $RARI governance token)
+- [**sudoswap**](https://sudoswap.xyz/): Decentralized NFT marketplace with AMM feature.
+- [**Tensor**](https://www.tensor.trade): NFT AMM on Solana.
+- [**NFTX**](https://nftx.io/): NFT Exchange with staking (NFT only) and liquidity provision (NFT + ETH) features.
 
 ### Explorers
 - [**NFTNDX.IO**](https://nftndx.io/): Authenticated Non-Fungible Tokens (NFT) Index
