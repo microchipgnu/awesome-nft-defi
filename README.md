@@ -41,6 +41,7 @@ Pull requests are very welcome.
 
 ### Other
 - [**$MEME**](https://dontbuymeme.com/): Meme is an experimental protocol mashing up some of the most exciting innovations in DeFi and crypto collectibles
+- [**Octav**](https://octav.fi/api): Multi-chain crypto portfolio tracking API. Track wallet holdings, DeFi protocol positions, transaction history, and token analytics across 20+ blockchains.
 
 ## Challenges 
 
