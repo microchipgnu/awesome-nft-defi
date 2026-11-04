@@ -49,4 +49,5 @@ Pull requests are very welcome.
 ## Articles/News
 - [DeFi Meets CryptoKitties: Axie Infinity to Introduce Governance Token](https://cointelegraph.com/news/defi-meets-cryptokitties-axie-infinity-to-introduce-governance-token) Axie Infinity is now the 11th-ranked NFT game by lifetime trade volume following a surge in players eager to get their hands on the platform’s governance token.
 - [Rarible Launches NFT Governance Token With RARI Liquidity Mining](https://defirate.com/rarible-rari-token/)
+- [DefiLPKit](https://defilpkit.com) - Free read-only LP calculator: fee APR, estimated net yield after impermanent loss and gas, and range scenarios for Uniswap v3, PancakeSwap v3, Aerodrome and Raydium pools.
 
